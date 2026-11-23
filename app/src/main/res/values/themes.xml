@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.ChromaTouch" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">#09090F</item>
+    </style>
+</resources>
